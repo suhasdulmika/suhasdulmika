@@ -35,7 +35,7 @@
 
 ## 📌 Projects
 
-### 📱 Device Info Web App
+### 📱 My Company
 CyberForge Technologies - https://cyberforge.suhasdulmika123.workers.dev
 ### 🔍 Security Learning Projects
 Basic network & security practice labs.
